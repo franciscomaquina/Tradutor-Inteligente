@@ -1,0 +1,7 @@
+{
+  "name": "Tradutor Inteligente",
+  "description": "Quebre barreiras linguísticas com IA. Tradução de texto, imagens e PDFs com modelos avançados.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
